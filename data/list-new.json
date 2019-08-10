@@ -1,0 +1,26 @@
+[
+		{
+			"name": "Jar Of Love",
+			"artist": "Everything In The World",
+			"id": 25713016,
+			"img": "http://p1.music.126.net/8jt2KnGDF0qMP9JbidOtVA==/573945069746475.jpg",
+			"singer": "曲婉婷",
+		    "src": "http://m10.music.126.net/20180701152116/872850497127e68acc88c3a039aeba87/ymusic/97e2/fe30/0556/a73dcc44c20332003afe2eb49e126106.mp3"
+		},
+		{
+			"name": "悟空",
+			"artist": "第二季中国好歌曲十大金曲",
+			"id": 33162226,
+			"img": "http://p1.music.126.net/gn4pPKc_Wk3EyByfi86lUQ==/3333719255417035.jpg",
+			"singer": "戴荃",
+			"src": "http://localhost:8080/ipfs/QmZTKrV4NgnR7Gi73ZN3tyGxTHizNTtZEQ1jQoWEmRqXGJ/music/悟空.mp3"
+		},
+		{
+			"name": "消愁",
+			"artist": "平凡的一天",
+			"id": 569200213,
+			"img": "http://p1.music.126.net/vmCcDvD1H04e9gm97xsCqg==/109951163350929740.jpg",
+			"singer": "毛不易",
+			"src": "http://localhost:8080/ipfs/QmXDdSpNjZphCoPp96oFD1v7QrK5dFjzgcHvMhJYVpUnQV"
+		}
+]
